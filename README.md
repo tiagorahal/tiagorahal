@@ -5,7 +5,8 @@
      
   :robot: I’m looking to collaborate on a project to develop my skills and knowledge. :robot:
 
-  📫 How to contact me :mailbox:
+  📫 How to contact me:
+  
   https://www.linkedin.com/in/tiagorahal/
   
   E-mail: rahal.aires@gmail.com
