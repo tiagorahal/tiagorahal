@@ -1,16 +1,14 @@
-### Hi there 👋
+![Wake up Samurai!](https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif)
 
-<!--
-**tiagorahal/tiagorahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  :computer: I’m currently learning HTML, CSS, JavaScript, Angular and PHP. :computer:
+     
+  :robot: I’m looking to collaborate on a project to develop my skills and knowledge. :robot:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📫 How to contact me :mailbox:
+  https://www.linkedin.com/in/tiagorahal/
+  
+  E-mail: rahal.aires@gmail.com
+
+  :alien: And a fun fact about me, i've watched all episodes of Doctor Who, even those that BBC "purged" :alien:
+
