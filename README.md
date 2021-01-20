@@ -11,5 +11,5 @@
   
    rahal.aires@gmail.com
 
-  :alien: And a fun fact about me, i've watched all episodes of Doctor Who, even those that BBC "purged" :alien:
+  :alien: And a fun fact about me, i've watched all episodes of Doctor Who, even those that BBC "purged". :alien:
 
