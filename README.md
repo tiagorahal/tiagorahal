@@ -7,9 +7,9 @@
 
   📫 How to contact me:
   
-  https://www.linkedin.com/in/tiagorahal/
+     https://www.linkedin.com/in/tiagorahal/
   
-  rahal.aires@gmail.com
+     rahal.aires@gmail.com
 
   :alien: And a fun fact about me, i've watched all episodes of Doctor Who, even those that BBC "purged" :alien:
 
