@@ -1,5 +1,7 @@
 ![Tiago Rahal Aires Logo!](https://i.imgur.com/sIjVUYF.png)
 
+<a href="mailto:rahal.aires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 <hr>
 
