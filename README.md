@@ -1,7 +1,7 @@
-![Wake up Samurai!](https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif)
+![Tiago Rahal Aires Logo!](https://i.imgur.com/sIjVUYF.png)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorahal&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorahal&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
