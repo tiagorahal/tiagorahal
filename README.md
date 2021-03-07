@@ -1,7 +1,7 @@
 ![Wake up Samurai!](https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorahal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorahal&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
