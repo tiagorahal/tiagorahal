@@ -1,6 +1,7 @@
 ![Tiago Rahal Aires Logo!](https://i.imgur.com/sIjVUYF.png)
 
-<a href="mailto:rahal.aires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a  target="_blank" href="https://www.linkedin.com/in/tiagorahal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:rahal.aires@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 <hr>
