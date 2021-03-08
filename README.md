@@ -7,7 +7,7 @@
 <a href="https://discordapp.com/channels/@me/6160/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
-
+I am in <span style="font-family:rockwell; font-size:4em;">LOVE!</span>
 
 
 <hr>
@@ -19,7 +19,7 @@
 <hr>
 
 
-# I’m a student at Microverse :computer:
-## Currently learning HTML, CSS, JavaScript, Angular, PHP, Ruby and Ruby on Rails. :computer:
+# I’m a student at Microverse
+## Currently learning <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>, CSS, JavaScript, Angular, PHP, Ruby and Ruby on Rails. :computer:
 
   
