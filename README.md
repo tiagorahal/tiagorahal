@@ -16,7 +16,7 @@
 <hr>
 
 
-# I’m a student at Microverse and part time bookworm! ![Bookworm](https://media.giphy.com/media/GdPNYNrCuvmfr5cFyC/giphy.gif)
+# I’m a student at Microverse and part time bookworm! ![Bookworm](https://media.giphy.com/media/3kD2Eciolhy4VOzjRV/giphy.gif)
 
 ## Skills:
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><br>
