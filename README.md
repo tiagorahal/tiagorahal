@@ -16,7 +16,7 @@
 <hr>
 
 
-# I’m a student at Microverse
+# I’m a student at Microverse and part time comic nerd
 
 ## Skills:
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><br>
