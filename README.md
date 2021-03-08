@@ -35,4 +35,6 @@
 <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a><br> 
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a><br> 
 
-  
+ <hr>
+ 
+ # I am currently looking for a job opportunity that allows and helps me to grow as a professional.
