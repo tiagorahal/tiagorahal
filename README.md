@@ -11,7 +11,7 @@
 <hr>
 
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorahal&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorahal&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>
