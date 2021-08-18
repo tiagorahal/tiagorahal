@@ -27,13 +27,13 @@
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a><br> 
 <a href="https://sass-lang.com/documentation"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a><br>
-<a href="https://www.ruby-lang.org/en/documentation/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a><br>
+<a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a><br> 
 
 
 
 ## Currently learning:
+<a href="https://www.ruby-lang.org/en/documentation/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a><br>
 <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a><br> 
-<a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a><br> 
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a><br> 
 
  <hr>
