@@ -27,5 +27,6 @@
 <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a><br> 
 
  <hr>
+
  
  # I am currently looking for a job opportunity that allows and helps me to grow as a professional.
