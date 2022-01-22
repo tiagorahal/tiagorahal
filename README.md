@@ -26,5 +26,5 @@
 
  <hr>
 
- 
+
  # I am currently looking for a job opportunity that allows and helps me to grow as a professional.
