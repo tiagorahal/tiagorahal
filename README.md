@@ -7,9 +7,7 @@
 <a href="https://discordapp.com/channels/FoundationSpy/6160/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><br>
 ### rahal.aires@gmail.com
 
-
 <hr>
-
 
 [![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorahal&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
