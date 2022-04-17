@@ -13,11 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorahal&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <hr>
-
-
-# I’m a student at Microverse and a part time bookworm! <img src="https://media.giphy.com/media/3kD2Eciolhy4VOzjRV/giphy-downsized.gif" height="150px" />
 
 ## Skills:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -26,8 +22,3 @@
 <a href="https://www.postgresql.org/"><img src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"></a>
 <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a><br> 
-
- <hr>
-
-
- # I am currently looking for a job opportunity that allows and helps me to grow as a professional.
