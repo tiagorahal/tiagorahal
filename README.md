@@ -25,7 +25,7 @@ Atualmente na <b>Crefaz</b> (Automação de processos com Python/RPA) <br/>
 ```javascript
 const tiago = {
   area: "Full-Stack & RPA",
-  code: ["Python", "Ruby", "JavaScript", "Java"],
+  code: ["Python", "Ruby", "Rust", "JavaScript", "Java"],
   tools: ["Ruby on Rails", "React", "Vue", "Node.js", "Selenium", "Playwright"],
   databases: ["PostgreSQL", "MySQL", "MongoDB"],
   devops: ["Docker", "Kubernetes", "Git", "CI/CD", "AWS"],
