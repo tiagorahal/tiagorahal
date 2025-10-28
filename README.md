@@ -2,7 +2,7 @@
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWltbnBlamtwMnowN3B6eW9kem5hNWFtZ2ZmbHBmN3M1aXE4bDlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="230">
 
 <p><em>Full-Stack Developer • Maringá, BR<br/>
-Atualmente na <b>Crefaz</b> (Automação de processos com Python/RPA) <br/>
+Atualmente na <b>Flugo</b> (Full-Stack Developer) <br/>
 </em></p>
 
 <!-- Social links -->
