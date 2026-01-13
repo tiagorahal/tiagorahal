@@ -25,7 +25,7 @@ Atualmente na <b>Flugo</b> (Full-Stack Developer) <br/>
 ```javascript
 const tiago = {
   area: "Full-Stack",
-  code: ["JavaScript", "Python", "Ruby", "Rust", "Java"],
+  code: ["JavaScript", "Python", "Ruby", "Java"],
   tools: ["React", "Node.js", "Ruby on Rails", "Vue", "Selenium"],
   databases: ["PostgreSQL", "MySQL", "Firebase"],
   devops: ["Docker", "Kubernetes", "Git", "CI/CD", "AWS"],
