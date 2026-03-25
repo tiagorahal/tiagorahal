@@ -25,16 +25,16 @@ Atualmente na <b>Flugo</b> (Full-Stack Developer) <br/>
 ```javascript
 const tiago = {
   area: "Full-Stack",
-  code: ["JavaScript", "Python", "Ruby", "Java"],
-  tools: ["React", "Node.js", "Ruby on Rails", "Vue", "Selenium"],
+  code: ["JavaScript", "Python", "Java"],
+  tools: ["React", "Node.js", "Redux"],
   databases: ["PostgreSQL", "MySQL", "Firebase"],
   devops: ["Docker", "Kubernetes", "Git", "CI/CD", "AWS"],
   practices: ["Clean Code", "TDD", "Design Patterns", "GitFlow", "BPMN"],
   architecture: ["microservices", "event-driven", "clean architecture"],
   focusNow: [
-    "Desenvolvimento fullstack com foco em front-end, back-end e DevOps",
+    "Desenvolvimento fullstack com Java, React, Node.js e Python",
     "Integração e automação de sistemas com APIs e pipelines de dados",
     "Monitoramento, escalabilidade e qualidade em ambientes de produção"
-  ]
+  ],
   fun: "Transformar ideias em sistemas automatizados e escaláveis 😄"
 }
