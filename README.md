@@ -1,8 +1,8 @@
 <h2> Olá, eu sou o Tiago Rahal! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmpvamxseWxzcTJnb3UxdzR2d2NsNzFhdDcxYWFvbDlyYWJ2MTA4YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/abCc8RJIm7A3P4gs1q/giphy.gif" width="50"></h2>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWltbnBlamtwMnowN3B6eW9kem5hNWFtZ2ZmbHBmN3M1aXE4bDlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="230">
 
-<p><em>Full-Stack Developer • Maringá, BR<br/>
-Atualmente na <b>Flugo</b> (Full-Stack Developer) <br/>
+<p><em>Full-Stack Developer • Goiânia, BR<br/>
+Atualmente na <b>Prefeitura de Senador Canedo</b> (Full-Stack Developer) <br/>
 </em></p>
 
 <!-- Social links -->
