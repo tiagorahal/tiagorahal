@@ -1,8 +1,8 @@
 <h2> Olá, eu sou o Tiago Rahal! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmpvamxseWxzcTJnb3UxdzR2d2NsNzFhdDcxYWFvbDlyYWJ2MTA4YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/abCc8RJIm7A3P4gs1q/giphy.gif" width="50"></h2>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWltbnBlamtwMnowN3B6eW9kem5hNWFtZ2ZmbHBmN3M1aXE4bDlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="230">
 
-<p><em>Full-Stack Developer • Goiânia, BR<br/>
-Atualmente na <b>Prefeitura de Senador Canedo</b> (Full-Stack Developer) <br/>
+<p><em>Desenvolvedor Backend Java • Goiânia, BR<br/>
+Atualmente na <b>Suit (Suitpay)</b> como Back End Developer <br/>
 </em></p>
 
 <!-- Social links -->
@@ -10,7 +10,7 @@ Atualmente na <b>Prefeitura de Senador Canedo</b> (Full-Stack Developer) <br/>
   <a href="https://www.linkedin.com/in/tiagorahal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+554198442760" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=+5541998442760" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://discordapp.com/channels/FoundationSpy/6160/" target="_blank">
@@ -22,19 +22,21 @@ Atualmente na <b>Prefeitura de Senador Canedo</b> (Full-Stack Developer) <br/>
 
 ### Um pouco sobre mim…
 
-```javascript
+\`\`\`javascript
 const tiago = {
-  area: "Full-Stack",
-  code: ["JavaScript", "Python", "Java"],
-  tools: ["React", "Node.js", "Redux"],
-  databases: ["PostgreSQL", "MySQL", "Firebase"],
-  devops: ["Docker", "Kubernetes", "Git", "CI/CD", "AWS"],
-  practices: ["Clean Code", "TDD", "Design Patterns", "GitFlow", "BPMN"],
-  architecture: ["microservices", "event-driven", "clean architecture"],
+  area: "Backend Java / Full-Stack",
+  code: ["Java", "Python", "JavaScript", "TypeScript", "Rust"],
+  backend: ["Spring Boot", "APIs REST", "APIs SOAP", "Microsserviços", "FastAPI", "Node.js"],
+  frontend: ["React", "Redux", "HTML", "CSS"],
+  databases: ["PostgreSQL", "MySQL", "SQL", "Firebase", "SQLAlchemy"],
+  devops: ["Docker", "CI/CD", "Git", "AWS"],
+  practices: ["Clean Code", "Arquitetura de Software", "OOP", "JWT", "Integração de Sistemas", "RPA"],
+  architecture: ["microservices", "REST/SOAP APIs", "distributed systems"],
   focusNow: [
-    "Desenvolvimento fullstack com Java, React, Node.js e Python",
-    "Integração e automação de sistemas com APIs e pipelines de dados",
-    "Monitoramento, escalabilidade e qualidade em ambientes de produção"
+    "Desenvolvimento backend em Java (Spring Boot) na plataforma da Suitpay",
+    "Performance, segurança e escalabilidade em ambientes de alta demanda",
+    "Integração entre sistemas via APIs REST e evolução de arquitetura"
   ],
   fun: "Transformar ideias em sistemas automatizados e escaláveis 😄"
 }
+\`\`\`
