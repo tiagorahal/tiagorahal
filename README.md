@@ -22,7 +22,7 @@ Atualmente na <b>Suit (Suitpay)</b> como Back End Developer <br/>
 
 ### Um pouco sobre mim…
 
-\`\`\`javascript
+```javascript
 const tiago = {
   area: "Backend Java / Full-Stack",
   code: ["Java", "Python", "JavaScript", "TypeScript", "Rust"],
@@ -39,4 +39,3 @@ const tiago = {
   ],
   fun: "Transformar ideias em sistemas automatizados e escaláveis 😄"
 }
-\`\`\`
